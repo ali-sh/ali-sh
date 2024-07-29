@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a PhD student in Cognitive Neuroscience at Ecole Normale Superieure (ENS) Paris, Human Reinforcement Learning Team.
+I study value-based decision-making using reinforcement learning algorithms.
 
 <!--
 **ali-sh/ali-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
